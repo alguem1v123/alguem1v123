@@ -93,7 +93,7 @@ const developer = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
 <br><br>
 
@@ -105,19 +105,19 @@ const developer = {
 
 ### 🧠 AI & Automation
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
 
 <br><br>
 
 ### ⚙️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,powershell,bash&theme=dark" />
 
 </div>
 
@@ -128,7 +128,6 @@ const developer = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00e5ff"/>
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=00e5ff"/>
 <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00e5ff"/>
