@@ -117,7 +117,7 @@ const developer = {
 
 ### ⚙️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=github,linux,powershell,cmd&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,powershell,Windows,VirtualBox&theme=dark" />
 
 </div>
 
@@ -138,61 +138,6 @@ const developer = {
 </div>
 
 ---
-
-# `> PROJECTS`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 AI PROJECTS
-
-<a href="https://github.com/alguem1v123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=AI&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-</a>
-
-**Artificial Intelligence / Automation**
-
-> Projetos relacionados com IA, automação e experiências inteligentes.
-
-</td>
-
-<td width="50%">
-
-### 🌐 WEB PROJECTS
-
-<a href="https://github.com/alguem1v123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Website&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-</a>
-
-**Modern Web Development**
-
-> Interfaces modernas, aplicações web e experiências digitais.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 GAME PROJECTS
-
-<a href="https://github.com/alguem1v123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Minecraft&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-</a>
-
-**Game / Minecraft Development**
-
-> Desenvolvimento, servidores, mods e experiências relacionadas com jogos.
-
-</td>
-
-<td width="50%">
 
 ### ⚙️ AUTOMATION
 
