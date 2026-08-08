@@ -1,22 +1,16 @@
 <div align="center">
 
-<!-- ========================= -->
-
-<!--        SYSTEM BOOT         -->
-
-<!-- ========================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=220&section=header&text=ALGUEM1V123&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20CYBER%20%7C%20CODE%20%7C%20SYSTEMS&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Initializing+Artificial+Intelligence...;%3E+Loading+Developer+Profile...;%3E+Access+Granted%3A+ALGUEM1V123;%3E+Building+the+future+one+line+at+a+time..."/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alguem1v123&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=alguem1v123&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/alguem1v123?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/alguem1v123?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505"/>
 
-<img src="https://img.shields.io/github/stars/alguem1v123?label=STARS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/alguem1v123?label=STARS&style=for-the-badge&color=00e5ff&labelColor=050505"/>
 
 </div>
 
@@ -57,12 +51,13 @@ Olá! Sou **alguem1v123**, um developer apaixonado por tecnologia, programação
 
 Gosto de transformar ideias em sistemas funcionais, experimentar novas tecnologias e construir projetos com uma abordagem moderna e criativa.
 
-Meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
+O meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
 
 ```js
 const developer = {
     username: "alguem1v123",
     role: "Developer",
+
     interests: [
         "Artificial Intelligence",
         "Web Development",
@@ -70,6 +65,7 @@ const developer = {
         "Game Development",
         "Cyber Technology"
     ],
+
     mindset: "Build • Learn • Improve",
     status: "Always coding..."
 };
@@ -91,33 +87,39 @@ const developer = {
 
 <div align="center">
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark"/>
 
 <br><br>
 
-### 🧠 AI & Automation
+## 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind&theme=dark"/>
 
 <br><br>
 
-### ⚙️ Systems & Infrastructure
+## 🧠 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+
+<img src="https://img.shields.io/badge/pgAdmin-050505?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
+
+<br><br>
+
+## ⚙️ Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,bash&theme=dark"/>
 
 </div>
 
@@ -128,13 +130,22 @@ const developer = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=00e5ff"/>
+
 <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00e5ff"/>
+
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
 <img src="https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=00e5ff"/>
+
 <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00e5ff"/>
+
 <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00e5ff"/>
+
 <img src="https://img.shields.io/badge/Blender-050505?style=for-the-badge&logo=blender&logoColor=ff6b00"/>
+
 <img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=00e5ff"/>
+
+<img src="https://img.shields.io/badge/pgAdmin-050505?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
 
 </div>
 
@@ -145,9 +156,10 @@ const developer = {
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🤖 AI PROJECTS
 
@@ -155,13 +167,13 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=AI&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
 </a>
 
-**Artificial Intelligence / Automation**
+**Artificial Intelligence & Automation**
 
-> Projetos relacionados com IA, automação e experiências inteligentes.
+Projetos relacionados com IA, automação e experiências inteligentes.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🌐 WEB PROJECTS
 
@@ -171,7 +183,7 @@ const developer = {
 
 **Modern Web Development**
 
-> Interfaces modernas, aplicações web e experiências digitais.
+Interfaces modernas, aplicações web e experiências digitais.
 
 </td>
 
@@ -179,7 +191,7 @@ const developer = {
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎮 GAME PROJECTS
 
@@ -187,13 +199,13 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Minecraft&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
 </a>
 
-**Game / Minecraft Development**
+**Game & Minecraft Development**
 
-> Desenvolvimento, servidores, mods e experiências relacionadas com jogos.
+Desenvolvimento de mods, servidores e experiências relacionadas com jogos.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### ⚙️ AUTOMATION
 
@@ -203,16 +215,17 @@ const developer = {
 
 **Automation & Tools**
 
-> Scripts e ferramentas para automatizar tarefas e melhorar workflows.
+Scripts e ferramentas para automatizar tarefas e melhorar workflows.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
-> **Nota:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios para os cards apontarem diretamente para os teus projetos.
+> **IMPORTANTE:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios.
 
 ---
 
@@ -262,7 +275,7 @@ SYSTEM MESSAGE:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&bg_color=050505&color=ffffff&line=00e5ff&point=00e5ff&area_color=00e5ff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&bg_color=050505&color=ffffff&line=00e5ff&point=00e5ff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -284,7 +297,7 @@ SYSTEM MESSAGE:
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/alguem1v123/alguem1v123/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/alguem1v123/alguem1v123/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%"/>
 
 </div>
 
@@ -298,15 +311,11 @@ SYSTEM MESSAGE:
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-</a>
-
-<a href="https://discord.com/">
+<a href="https://discord.com/users/dark_Violet">
 <img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=7289da"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:joaocarlosandrade68@gmail.com">
 <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
 
