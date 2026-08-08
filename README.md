@@ -49,13 +49,79 @@ const developer = {
 
 ### 💻 Languages
 
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+</p>
+
 ### 🌐 Web Development
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
 
 ### 🧠 AI & Automation
 
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
+</p>
+
 ### 🗄️ Databases
 
+<p align="left">
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+</p>
+
 ### ⚙️ Systems & Infrastructure
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows/">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
@@ -97,13 +163,35 @@ SYSTEM MESSAGE:
 
 # `> GITHUB_STATS`
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 # `> ACTIVITY_GRAPH`
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 # `> CONNECT`
+
+<p align="center">
+  <a href="https://github.com/alguem1v123">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
+
+  <a href="mailto:joaocarlosandrade68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-.dark__Violet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
