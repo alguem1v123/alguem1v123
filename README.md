@@ -266,24 +266,20 @@ SYSTEM MESSAGE:
 
 </div>
 
+---
 
 # `> CONNECT`
 
 <div align="center">
 
-```html
 <a href="https://github.com/alguem1v123">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=7289da"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="mailto:joaocarlosandrade68@gmail.com">
-  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
-```
+
 </div>
 
 ---
