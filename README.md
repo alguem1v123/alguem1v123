@@ -47,9 +47,11 @@ const developer = {
 
 # `> TECH_STACK`
 
+<div align="center">
+
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
@@ -69,7 +71,7 @@ const developer = {
 
 ### 🌐 Web Development
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
@@ -89,7 +91,7 @@ const developer = {
 
 ### 🧠 AI & Automation
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
@@ -100,7 +102,7 @@ const developer = {
 
 ### 🗄️ Databases
 
-<p align="left">
+<p align="center">
   <a href="https://www.postgresql.org/">
     <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
@@ -108,7 +110,7 @@ const developer = {
 
 ### ⚙️ Systems & Infrastructure
 
-<p align="left">
+<p align="center">
   <a href="https://www.microsoft.com/windows/">
     <img src="https://skillicons.dev/icons?i=windows" />
   </a>
@@ -122,6 +124,8 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -163,37 +167,45 @@ SYSTEM MESSAGE:
 
 # `> GITHUB_STATS`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 # `> ACTIVITY_GRAPH`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
 # `> CONNECT`
 
-<p align="center">
-  <a href="https://github.com/alguem1v123">
-    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
+<div align="center">
 
-  <a href="mailto:joaocarlosandrade68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/alguem1v123">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
 
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-.dark__Violet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:joaocarlosandrade68@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-.dark__Violet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -207,3 +219,5 @@ SYSTEM MESSAGE:
 ```
 
 © 2026 alguem1v123 • Built with code, caffeine & curiosity.
+
+</div>
