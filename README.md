@@ -1,3 +1,27 @@
+<div align="center">
+
+<!-- ========================= -->
+
+<!--        SYSTEM BOOT         -->
+
+<!-- ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=220&section=header&text=ALGUEM1V123&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20CYBER%20%7C%20CODE%20%7C%20SYSTEMS&descAlignY=58&descSize=18&descColor=ffffff"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Initializing+Artificial+Intelligence...;%3E+Loading+Developer+Profile...;%3E+Access+Granted%3A+ALGUEM1V123;%3E+Building+the+future+one+line+at+a+time..."/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=alguem1v123&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/alguem1v123?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/alguem1v123?label=STARS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Stars"/>
+
+</div>
+
+---
+
 # `> SYSTEM.INIT()`
 
 ```text
@@ -13,11 +37,19 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
 ### `// DIGITAL ARCHITECT • DEVELOPER • PROBLEM SOLVER`
+
+</div>
 
 ---
 
 # `> ABOUT_ME`
+
+<table>
+<tr>
+<td width="55%">
 
 ### 👨‍💻 Sobre Mim
 
@@ -25,7 +57,7 @@ Olá! Sou **alguem1v123**, um developer apaixonado por tecnologia, programação
 
 Gosto de transformar ideias em sistemas funcionais, experimentar novas tecnologias e construir projetos com uma abordagem moderna e criativa.
 
-O meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
+Meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
 
 ```js
 const developer = {
@@ -43,92 +75,144 @@ const developer = {
 };
 ```
 
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 # `> TECH_STACK`
 
+<div align="center">
+
 ### 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+
+<br><br>
 
 ### 🌐 Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind&theme=dark" />
+
+<br><br>
 
 ### 🧠 AI & Automation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br><br>
 
 ### 🗄️ Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<br><br>
 
 ### ⚙️ Systems & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,bash&theme=dark" />
+
+</div>
 
 ---
 
 # `> TOOLS`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,blender,postman,docker" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Blender-050505?style=for-the-badge&logo=blender&logoColor=ff6b00"/>
+<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=00e5ff"/>
 
-# `> DEVELOPMENT_FOCUS`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT CORE                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [01] Artificial Intelligence        ███████████████░ 90%   │
-│  [02] Web Development                ████████████████░ 95%   │
-│  [03] Software Development           ██████████████░░ 85%   │
-│  [04] Automation                     █████████████░░░ 80%   │
-│  [05] Game Development               ███████████░░░░░ 70%   │
-│  [06] System Architecture            ████████████░░░░ 75%   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
 # `> PROJECTS`
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
 ### 🤖 AI PROJECTS
+
+<a href="https://github.com/alguem1v123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=AI&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+</a>
 
 **Artificial Intelligence / Automation**
 
-> Projetos relacionados com inteligência artificial, automação, processamento de dados e experiências inteligentes.
+> Projetos relacionados com IA, automação e experiências inteligentes.
+
+</td>
+
+<td width="50%">
 
 ### 🌐 WEB PROJECTS
 
+<a href="https://github.com/alguem1v123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Website&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+</a>
+
 **Modern Web Development**
 
-> Interfaces modernas, aplicações web, sistemas comerciais e experiências digitais.
+> Interfaces modernas, aplicações web e experiências digitais.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🎮 GAME PROJECTS
 
-**Game Development**
+<a href="https://github.com/alguem1v123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Minecraft&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+</a>
 
-> Experiências interativas, sistemas para jogos e exploração de tecnologias relacionadas com desenvolvimento de jogos.
+**Game / Minecraft Development**
+
+> Desenvolvimento, servidores, mods e experiências relacionadas com jogos.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ AUTOMATION
+
+<a href="https://github.com/alguem1v123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Automation&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+</a>
+
+**Automation & Tools**
+
+> Scripts e ferramentas para automatizar tarefas e melhorar workflows.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> **Nota:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios para os cards apontarem diretamente para os teus projetos.
 
 ---
 
@@ -156,87 +240,55 @@ SYSTEM MESSAGE:
 
 # `> GITHUB_STATS`
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguem1v123&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguem1v123&layout=compact&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alguem1v123&theme=dark&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="70%"/>
+
+</div>
 
 ---
 
 # `> ACTIVITY_GRAPH`
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&bg_color=050505&color=ffffff&line=00e5ff&point=00e5ff&area_color=00e5ff&area=true&hide_border=true" width="95%"/>
 
-# `> TROPHIES`
+</div>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=alguem1v123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/alguem1v123/alguem1v123/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
 
 # `> CONNECT`
 
-<p align="center">
+<div align="center">
+
+```html
+<a href="https://github.com/alguem1v123">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=7289da"/>
+</a>
 
 <a href="mailto:joaocarlosandrade68@gmail.com">
-  <img src="https://img.shields.io/badge/Email-joaocarlosandrade68%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
-
-<a href="https://discord.com/users/.dark_Violet">
-  <img src="https://img.shields.io/badge/Discord-.dark__Violet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# `> SYSTEM_INFO`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       SYSTEM INFO                            ║
-╠══════════════════════════════════════════════════════════════╣
-║ USERNAME     : alguem1v123                                  ║
-║ ROLE         : Developer                                    ║
-║ FOCUS        : Software / AI / Web                          ║
-║ OS           : Windows / Linux                              ║
-║ DATABASE     : PostgreSQL / pgAdmin                         ║
-║ STATUS       : ONLINE                                       ║
-║ MODE         : BUILD                                        ║
-╚══════════════════════════════════════════════════════════════╝
 ```
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -249,6 +301,10 @@ SYSTEM MESSAGE:
 ╰────────────────────────────────────────────────────────────╯
 ```
 
-**© 2026 alguem1v123 • Built with code, caffeine & curiosity.**
+<br>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:07111f,100:050505&height=120&section=footer"/>
+
+<sub>© 2026 alguem1v123 • Built with code, caffeine & curiosity.</sub>
+
+</div>
