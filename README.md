@@ -24,7 +24,9 @@
 
 ## `01` // SYSTEM PROFILE
 
-```text
+<div align="center">
+
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                    DEVELOPER PROFILE                         │
 │                       CORE ONLINE                            │
@@ -37,7 +39,9 @@
 │ PROJECTS   : INITIALIZING                                   │
 │ OBJECTIVE  : BUILD SOMETHING GREAT                          │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
 
 ### `> Sobre Mim`
 
@@ -49,13 +53,17 @@ Atualmente estou focado em **aprender, experimentar novas tecnologias e transfor
 
 Minha filosofia:
 
-```diff
+<div align="center">
+
+<pre>
 + Learn something new every day
 + Turn ideas into code
 + Build before perfection
 + Explore new technologies
 + Never stop improving
-```
+</pre>
+
+</div>
 
 > **"Every expert was once a beginner."**
 
@@ -82,19 +90,24 @@ Minha filosofia:
 ---
 
 ## `03` // CURRENT TOOLKIT
-```text
+
+<div align="center">
+
+<pre>
 ┌────────────────────────────────────────────────────────────┐
 │                    DEVELOPMENT STACK                       │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  CODE        →  VS Code                                   │
-│  VERSION     →  Git / GitHub                               │
-│  OS          →  Linux / Windows                            │
-│  TERMINAL    →  Bash / PowerShell                          │
-│  LEARNING    →  Documentation / Open Source                │
+│  VERSION     →  Git / GitHub                              │
+│  OS          →  Linux / Windows                           │
+│  TERMINAL    →  Bash / PowerShell                         │
+│  LEARNING    →  Documentation / Open Source               │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
 
 <div align="center">
 
@@ -106,30 +119,35 @@ Minha filosofia:
 
 ## `04` // PROJECT DATABASE
 
-### 🛰️ STATUS: INITIALIZING
-
-```console
-alguem1v123@github:~$ ls ./projects
-
-> directory is currently empty
-
-[ SYSTEM ]
-No public projects detected.
-
-[ NEXT MISSION ]
-Build the first project.
-
-[ STATUS ]
-████████████████░░░░ 80% LEARNING
-███████████░░░░░░░░░ 55% BUILDING
-████░░░░░░░░░░░░░░░░ 20% DEPLOYING
-```
-
 <div align="center">
+
+<pre>
+┌────────────────────────────────────────────────────────────┐
+│                   PROJECT DATABASE                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  alguem1v123@github:~$ ls ./projects                       │
+│                                                            │
+│  > directory is currently empty                            │
+│                                                            │
+│  [ SYSTEM ]                                                │
+│  No public projects detected.                              │
+│                                                            │
+│  [ NEXT MISSION ]                                          │
+│  Build the first project.                                  │
+│                                                            │
+│  [ STATUS ]                                                │
+│  ████████████████░░░░ 80% LEARNING                         │
+│  ███████████░░░░░░░░░ 55% BUILDING                        │
+│  ████░░░░░░░░░░░░░░░░ 20% DEPLOYING                       │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+</pre>
 
 ### 🚀 First Project Loading...
 
 <img src="https://img.shields.io/badge/PROJECT-UNDER%20CONSTRUCTION-050816?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-050816?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/>
 
 </div>
@@ -140,24 +158,34 @@ Build the first project.
 
 ## `05` // CURRENT OBJECTIVES
 
-```console
-┌─[ alguem1v123@github ]─[ ~/mission ]
-└──╼ $ ./current_objectives.sh
+<div align="center">
 
-[✓] Start my developer journey
-[✓] Create my GitHub profile
-[>] Learn programming fundamentals
-[>] Build my first projects
-[>] Improve problem solving
-[>] Learn Git & GitHub
-[>] Explore web development
-[ ] Create open-source projects
-[ ] Build something amazing
+<pre>
+┌────────────────────────────────────────────────────────────┐
+│                  CURRENT OBJECTIVES                        │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ┌─[ alguem1v123@github ]─[ ~/mission ]                   │
+│  └──╼ $ ./current_objectives.sh                            │
+│                                                            │
+│  [✓] Start my developer journey                            │
+│  [✓] Create my GitHub profile                              │
+│  [>] Learn programming fundamentals                        │
+│  [>] Build my first projects                               │
+│  [>] Improve problem solving                               │
+│  [>] Learn Git & GitHub                                    │
+│  [>] Explore web development                               │
+│  [ ] Create open-source projects                           │
+│  [ ] Build something amazing                               │
+│                                                            │
+│  SYSTEM PROGRESS ███████████████░░░░░ 75%                 │
+│                                                            │
+│  MISSION STATUS: IN PROGRESS...                            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+</pre>
 
-SYSTEM PROGRESS ███████████████░░░░░ 75%
-
-MISSION STATUS: IN PROGRESS...
-```
+</div>
 
 ---
 
@@ -191,7 +219,7 @@ MISSION STATUS: IN PROGRESS...
 
 ---
 
-## `10` // SOCIAL NETWORK
+## `08` // SOCIAL NETWORK
 
 <div align="center">
 
@@ -211,7 +239,7 @@ MISSION STATUS: IN PROGRESS...
 
 ## `SYSTEM MESSAGE`
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║              WELCOME TO MY DIGITAL SPACE                ║
@@ -221,7 +249,7 @@ MISSION STATUS: IN PROGRESS...
 ║                    SYSTEM // ONLINE                      ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:111827,100:050816&height=120&section=footer"/>
 
