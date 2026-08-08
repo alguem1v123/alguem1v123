@@ -17,11 +17,17 @@
 
 ### `// DIGITAL ARCHITECT • DEVELOPER • PROBLEM SOLVER`
 
+</div>
+
 ---
+
+<div align="center">
 
 # `> ABOUT_ME`
 
 ### 👨‍💻 Sobre Mim
+
+</div>
 
 Olá! Sou **alguem1v123**, um developer apaixonado por tecnologia, programação, inteligência artificial e criação de projetos digitais.
 
@@ -33,6 +39,7 @@ Meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver
 const developer = {
     username: "alguem1v123",
     role: "Developer",
+
     interests: [
         "Artificial Intelligence",
         "Web Development",
@@ -40,6 +47,7 @@ const developer = {
         "Game Development",
         "Cyber Technology"
     ],
+
     mindset: "Build • Learn • Improve",
     status: "Always coding..."
 };
@@ -47,109 +55,75 @@ const developer = {
 
 ---
 
+<div align="center">
+
 # `> TECH_STACK`
 
-### 💻 Languages
+## 💻 Languages
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js" />
 </p>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs" />
 </p>
 
-### 🧠 AI & Automation
+## 🧠 AI & Automation
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-<p align="center">
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### ⚙️ Systems & Infrastructure
+## ⚙️ Systems & Infrastructure
 
-<p align="center">
-  <a href="https://www.microsoft.com/windows/">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github" />
 </p>
+
+</div>
 
 ---
 
+<div align="center">
+
 # `> TOOLS`
 
-### 🛠️ Development Tools
+### 🛠️ Development
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
 </p>
 
 ### 🎨 Design & 3D
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=blender,figma" />
 </p>
 
-### 🗄️ Database Tools
+### 🗄️ Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+<p>
+  <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
+<div align="center">
+
 # `> CURRENT_OBJECTIVES`
+
+</div>
 
 ```bash
 ┌──[alguem1v123@github]
@@ -171,26 +145,36 @@ SYSTEM MESSAGE:
 
 ---
 
+<div align="center">
+
 # `> GITHUB_STATS`
 
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguem1v123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 # `> ACTIVITY_GRAPH`
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 # `> CONNECT`
 
-<p align="center">
+<p>
   <a href="https://github.com/alguem1v123">
     <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
@@ -204,7 +188,11 @@ SYSTEM MESSAGE:
   </a>
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
