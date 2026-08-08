@@ -109,6 +109,14 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=blender,figma" />
 </p>
 
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+</div>
+
 ---
 
 <div align="center">
