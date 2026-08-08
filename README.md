@@ -67,15 +67,15 @@ Minha filosofia:
 
 ### ⚙️ Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark"/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs&theme=dark"/>
 
 ### 🛠️ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
@@ -189,35 +189,6 @@ MISSION STATUS: IN PROGRESS...
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&bg_color=050816&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## `08` // ACHIEVEMENT PROTOCOL
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alguem1v123&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-## `09` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alguem1v123/alguem1v123/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%"/>
-
-</div>
-
-```text
-CONTRIBUTION ENGINE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Every contribution is another step forward.
-
-BUILD → LEARN → COMMIT → IMPROVE → REPEAT
-```
 
 ---
 
