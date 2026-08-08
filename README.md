@@ -131,15 +131,27 @@ const developer = {
 
 # `> TOOLS`
 
----
+<div align="center">
 
-### ⚙️ AUTOMATION
+### 🛠️ Development Tools
 
-**Automation & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
+</p>
 
-> Scripts e ferramentas para automatizar tarefas e melhorar workflows.
+### 🎨 Design & 3D
 
-> **Nota:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios para os cards apontarem diretamente para os teus projetos.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,figma" />
+</p>
+
+### 🗄️ Database Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+</div>
 
 ---
 
@@ -169,7 +181,9 @@ SYSTEM MESSAGE:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguem1v123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -179,7 +193,7 @@ SYSTEM MESSAGE:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
