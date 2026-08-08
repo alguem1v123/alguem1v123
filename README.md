@@ -111,7 +111,7 @@ const developer = {
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 
 <br><br>
 
