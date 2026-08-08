@@ -19,37 +19,27 @@
 
 <br />
 
-<!-- SECTION 1: OVERVIEW & CORE STATS -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ [01 // SYSTEM OVERVIEW]</h3>
-      <p>
-        Desenvolvedor Web especializado na construção de interfaces reativas e de alta performance. Foco principal no ecossistema <b>Vue.js</b>, <b>JavaScript (ES6+)</b> e arquiteturas semânticas em <b>HTML5/CSS3</b>.
-      </p>
-      <ul>
-        <li>🧬 <b>Core Stack:</b> Vue.js (Options/Composition API), JavaScript, HTML5 & Tailwind</li>
-        <li>⚡ <b>Performance:</b> Componentização modular, Single Page Applications (SPA) & Vite</li>
-        <li>🛠️ <b>Tooling & Infra:</b> Node.js, Git, Docker, REST APIs & Linux Environment</li>
-      </ul>
-      <blockquote>
-        <code>&gt; "Complexity is the enemy of execution. Build fast, optimize early."</code>
-      </blockquote>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>📊 [02 // CORE TELEMETRY]</h3>
-      <a href="https://github.com/SEU_USUARIO">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=cyberpunk&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Core Stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- SECTION 1: OVERVIEW -->
+<div>
+  <h3>⚡ [01 // SYSTEM OVERVIEW]</h3>
+  <p>
+    Desenvolvedor Web especializado na construção de interfaces reativas e de alta performance. Foco principal no ecossistema <b>Vue.js</b>, <b>JavaScript (ES6+)</b> e arquiteturas semânticas em <b>HTML5/CSS3</b>.
+  </p>
+  <ul>
+    <li>🧬 <b>Core Stack:</b> Vue.js (Options/Composition API), JavaScript, HTML5 & Tailwind</li>
+    <li>⚡ <b>Performance:</b> Componentização modular, Single Page Applications (SPA) & Vite</li>
+    <li>🛠️ <b>Tooling & Infra:</b> Node.js, Git, Docker, REST APIs & Linux Environment</li>
+  </ul>
+  <blockquote>
+    <code>&gt; "Complexity is the enemy of execution. Build fast, optimize early."</code>
+  </blockquote>
+</div>
 
 <br />
 
 <!-- SECTION 2: LIVE TERMINAL LOGS -->
 <div align="center">
-  <h3>🖥️ [03 // ACTIVE TERMINAL LOGS]</h3>
+  <h3>🖥️ [02 // ACTIVE TERMINAL LOGS]</h3>
 </div>
 
 ```zsh
