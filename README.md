@@ -82,7 +82,6 @@ Minha filosofia:
 ---
 
 ## `03` // CURRENT TOOLKIT
-
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                    DEVELOPMENT STACK                       │
