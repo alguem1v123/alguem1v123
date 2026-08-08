@@ -19,19 +19,18 @@
 
 # `> ABOUT_ME`
 
-## 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim
 
 Olá! Sou **alguem1v123**, um developer apaixonado por tecnologia, programação, inteligência artificial e criação de projetos digitais.
 
 Gosto de transformar ideias em sistemas funcionais, experimentar novas tecnologias e construir projetos com uma abordagem moderna e criativa.
 
-O meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
+Meu objetivo é evoluir constantemente, aprender novas ferramentas e desenvolver soluções cada vez mais completas.
 
 ```js
 const developer = {
     username: "alguem1v123",
     role: "Developer",
-
     interests: [
         "Artificial Intelligence",
         "Web Development",
@@ -39,7 +38,6 @@ const developer = {
         "Game Development",
         "Cyber Technology"
     ],
-
     mindset: "Build • Learn • Improve",
     status: "Always coding..."
 };
@@ -49,63 +47,27 @@ const developer = {
 
 # `> TECH_STACK`
 
-## 💻 Languages
+### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,html,css" />
-</p>
+### 🌐 Web Development
 
-## 🌐 Web Development
+### 🧠 AI & Automation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,vite" />
-</p>
+### 🗄️ Databases
 
-## 🧠 AI & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
-### 🛠️ Database Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-## ⚙️ Systems & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,docker" />
-</p>
+### ⚙️ Systems & Infrastructure
 
 ---
 
 # `> TOOLS`
 
-## ⚙️ AUTOMATION
+---
+
+### ⚙️ AUTOMATION
 
 **Automation & Tools**
 
-Scripts e ferramentas para automatizar tarefas, melhorar workflows e simplificar processos.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ AUTOMATION SYSTEM                                           │
-├─────────────────────────────────────────────────────────────┤
-│ • Python Scripts                                            │
-│ • Task Automation                                           │
-│ • Development Tools                                        │
-│ • Workflow Optimization                                    │
-│ • Custom Utilities                                         │
-└─────────────────────────────────────────────────────────────┘
-```
+> Scripts e ferramentas para automatizar tarefas e melhorar workflows.
 
 > **Nota:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios para os cards apontarem diretamente para os teus projetos.
 
@@ -135,47 +97,15 @@ SYSTEM MESSAGE:
 
 # `> GITHUB_STATS`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alguem1v123&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguem1v123&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 # `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alguem1v123&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
 # `> CONNECT`
 
-<div align="center">
-
-<a href="https://github.com/alguem1v123">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
-<a href="mailto:joaocarlosandrade68@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-.dark__Violet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -188,6 +118,4 @@ SYSTEM MESSAGE:
 ╰────────────────────────────────────────────────────────────╯
 ```
 
-**© 2026 alguem1v123 • Built with code, caffeine & curiosity.**
-
-</div>
+© 2026 alguem1v123 • Built with code, caffeine & curiosity.
