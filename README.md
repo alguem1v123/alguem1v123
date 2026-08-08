@@ -99,13 +99,13 @@ const developer = {
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite&theme=dark" />
 
 <br><br>
 
 ### 🧠 AI & Automation
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
@@ -117,7 +117,7 @@ const developer = {
 
 ### ⚙️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=github,linux,powershell,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,powershell,cmd&theme=dark" />
 
 </div>
 
