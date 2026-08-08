@@ -105,7 +105,6 @@ const developer = {
 
 <br><br>
 
-## 🗄️ Databases
 
 ## 🗄️ Databases
 
