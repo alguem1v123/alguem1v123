@@ -107,13 +107,13 @@ const developer = {
 
 ## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+## 🗄️ Databases
 
-<br><br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/pgAdmin-050505?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
+
+</div>
 
 <br><br>
 
