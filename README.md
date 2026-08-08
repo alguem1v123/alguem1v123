@@ -93,13 +93,13 @@ const developer = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
 <br><br>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vue,nodejs,vite&theme=dark" />
 
 <br><br>
 
@@ -117,7 +117,7 @@ const developer = {
 
 ### ⚙️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,powershell,bash&theme=dark" />
 
 </div>
 
@@ -180,39 +180,6 @@ const developer = {
 <tr>
 
 <td width="50%">
-
-### 🎮 GAME PROJECTS
-
-<a href="https://github.com/alguem1v123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Minecraft&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-</a>
-
-**Game / Minecraft Development**
-
-> Desenvolvimento, servidores, mods e experiências relacionadas com jogos.
-
-</td>
-
-<td width="50%">
-
-### ⚙️ AUTOMATION
-
-<a href="https://github.com/alguem1v123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alguem1v123&repo=Automation&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-</a>
-
-**Automation & Tools**
-
-> Scripts e ferramentas para automatizar tarefas e melhorar workflows.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-> **Nota:** substitui `AI`, `Website`, `Minecraft` e `Automation` pelos nomes reais dos teus repositórios para os cards apontarem diretamente para os teus projetos.
 
 ---
 
