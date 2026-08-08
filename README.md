@@ -105,14 +105,9 @@ const developer = {
 
 <br><br>
 
-
 ## 🗄️ Databases
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/pgAdmin-050505?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
-
-</div>
 
 <br><br>
 
@@ -143,8 +138,6 @@ const developer = {
 <img src="https://img.shields.io/badge/Blender-050505?style=for-the-badge&logo=blender&logoColor=ff6b00"/>
 
 <img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=00e5ff"/>
-
-<img src="https://img.shields.io/badge/pgAdmin-050505?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
 
 </div>
 
